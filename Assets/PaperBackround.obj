@@ -1,0 +1,16 @@
+# Blender v2.92.0 OBJ File: 'Extened_Reality_Of_Fine_Art_.blend'
+# www.blender.org
+mtllib PaperBackround.mtl
+o QB_Plane_Plane.005
+v -0.168803 -0.310357 -0.018082
+v 0.168803 -0.310357 -0.018082
+v -0.168803 0.320416 -0.018082
+v 0.168803 0.320416 -0.018082
+vt 0.000000 0.000000
+vt 1.000000 0.000000
+vt 1.000000 1.000000
+vt 0.000000 1.000000
+vn 0.0000 -0.0000 1.0000
+usemtl Material
+s off
+f 1/1/1 2/2/1 4/3/1 3/4/1
