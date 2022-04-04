@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: f9a53c52948a347ccbc2648a742216ce
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Accanthis ADF Std No3
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8004af4d92f224e6b936208445af03a7, type: 3}
+  - {fileID: 12800000, guid: 07fb78b1e58ea4af99ae8555921b5bb8, type: 3}
+  - {fileID: 12800000, guid: 9438f513365b744dd8b3b903bd8372fe, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
