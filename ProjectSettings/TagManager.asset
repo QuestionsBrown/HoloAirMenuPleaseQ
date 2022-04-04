@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TestArt
+  - TestArt2
+  - TestArt3
+  - ReturnBox
+  - Meats
+  - Pastries
+  - Cake
+  - Kabob
+  - Where Art Thou
+  - Where Art Thou 2
+  - Romeo Mac Burger
+  - Fresh Cut Fries
+  - Chili Cheese Fries
+  - Tator Tots
+  - Kale Salad
+  - Kale Wrap
+  - Sides
+  - Cold Foods
+  - Tobacco Road Burger
+  - Romeo Sloppy Joe Burger
+  - Strawberry
+  - Choclate
+  - Oreo
+  - Vanilla
+  - Plant Based Shakes
+  - Beverages
+  - Tea
+  - Lemonade
+  - Strawberry Lemonade
+  - Water
+  - Chocolate Chip Cookie
+  - Oatmeal Cookie
+  - Desserts
+  - House Sauce
+  - Onion Aioli
+  - Ranch
+  - Siracha Aioli
+  - Sauces
+  - StartBox
+  - Chicken and Such
+  - grilledHawiianChicken
+  - Salad
+  - Black Jack
+  - Classic
+  - Bacon Chedder
+  - Mushroom Swiss
+  - art
+  - alexander
+  - diablo
+  - freak
+  - Merch
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
