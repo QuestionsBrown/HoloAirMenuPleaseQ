@@ -1,0 +1,16 @@
+#
+# Wavefront material file
+# Created in RealityCapture
+# Engine version v1.0.3.10403
+#
+
+newmtl orange_Model_3_u1_v1
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd orange_AlbedoTransparency.png
+map_Ka orange_AlbedoTransparency.png
+map_Ks orange_MetallicSmoothness.png
+map_bump orange_normal.jpg
