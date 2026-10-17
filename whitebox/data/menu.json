@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "restaurant": {
+    "id": "demo-local",
+    "name": "HoloAir Kitchen",
+    "currency": "USD",
+    "orderingUrl": null
+  },
+  "items": [
+    {
+      "id": "burger",
+      "category": "Mains",
+      "name": "House burger",
+      "description": "White-box sample. Restaurant confirms ingredients before publication.",
+      "priceMinor": 1250,
+      "available": true,
+      "asset": {
+        "status": "placeholder",
+        "url": null
+      }
+    },
+    {
+      "id": "bowl",
+      "category": "Mains",
+      "name": "Garden bowl",
+      "description": "Sample menu item with a reusable detail view.",
+      "priceMinor": 1100,
+      "available": true,
+      "asset": {
+        "status": "placeholder",
+        "url": null
+      }
+    },
+    {
+      "id": "dessert",
+      "category": "Desserts",
+      "name": "Chocolate cake",
+      "description": "Sample item. Food mesh not connected yet.",
+      "priceMinor": 650,
+      "available": true,
+      "asset": {
+        "status": "placeholder",
+        "url": null
+      }
+    }
+  ]
+}
