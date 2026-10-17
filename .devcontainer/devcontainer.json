@@ -1,0 +1,18 @@
+{
+  "name": "HoloAirMenu source review",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-dotnettools.csharp"
+      ],
+      "settings": {
+        "files.exclude": {
+          "**/Library": true,
+          "**/Temp": true,
+          "**/Obj": true
+        }
+      }
+    }
+  }
+}
